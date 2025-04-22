@@ -108,23 +108,25 @@ cap.release()
 
 ### i) Write the frame as JPG image
 
-![Screenshot 2025-03-29 014501](https://github.com/user-attachments/assets/8131a922-f27b-4aa4-942d-47d52b3af836)
+![image](https://github.com/user-attachments/assets/a87850cb-4ed7-4f62-86a4-05cc516560af)
+
 
 ### ii) Display the video
+![image](https://github.com/user-attachments/assets/c91f80a1-fbf6-4e50-93df-270c762b1a9f)
 
-![Screenshot 2025-03-29 014744](https://github.com/user-attachments/assets/9c5dd739-bf18-4352-b36c-86c53663c571)
+
 
 
 ### iii) Display the video by resizing the window
 
-![Screenshot 2025-03-29 015901](https://github.com/user-attachments/assets/5d06caa4-1603-4ea9-85c9-73c54782402f)
 
+![image](https://github.com/user-attachments/assets/7e365298-28c3-4f3a-85f8-776166026eef)
 
 
 
 ### iv) Rotate and display the video
+![image](https://github.com/user-attachments/assets/498efa1e-ddc4-481c-9151-76f0208688c5)
 
-![Screenshot 2025-03-29 015413](https://github.com/user-attachments/assets/2544bcfe-16eb-465c-bdaf-77fb2ffa6903)
 
 
 
